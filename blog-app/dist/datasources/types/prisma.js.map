@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../src/datasources/types/prisma.ts"],"sourcesContent":["import { DataSource } from \"@godspeedsystems/plugins-prisma-as-datastore\";\r\nexport default DataSource;\r\n"],"names":["DataSource"],"rangeMappings":";;;;;;;;;;;","mappings":";;;;+BACA;;;eAAA;;;0CAD2B;MAC3B,WAAeA,oCAAU"}
