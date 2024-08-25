@@ -1,6 +1,6 @@
-# Contributing to FarmCare
+# Contributing to FarmEasy
 
-We appreciate your interest in contributing to FarmCare! This document outlines the steps and guidelines for contributing to this project. By following these steps, you can ensure your contribution is smoothly integrated into the project.
+We appreciate your interest in contributing to FarmEasy! This document outlines the steps and guidelines for contributing to this project. By following these steps, you can ensure your contribution is smoothly integrated into the project.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Before you start contributing, make sure you have the following tools installed 
 
 ## Fork the Repository
 
-1. Navigate to the [FarmCare GitHub repository](https://github.com/rahulkarda/FarmCare).
+1. Navigate to the [FarmEasy GitHub repository](https://github.com/rahulkarda/FarmEasy).
 2. Click the "Fork" button in the top-right corner of the page to create a copy of the repository in your GitHub account.
 
 ## Clone the Repository
@@ -33,7 +33,7 @@ Before you start contributing, make sure you have the following tools installed 
 3. Run the following command:
 
 ```bash
-  git clone https://github.com/YOUR_USERNAME/FarmCare.git
+  git clone https://github.com/YOUR_USERNAME/FarmEasy.git
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
@@ -43,7 +43,7 @@ Replace `YOUR_USERNAME` with your GitHub username.
 1. Navigate to the cloned repository on your local machine:
 
 ```bash
-  cd FarmCare
+  cd FarmEasy
 ```
 
 2. Create a new branch using the following command:
@@ -88,7 +88,7 @@ Replace `your-new-branch-name` with the name of your branch.
 
 ## Submit a Pull Request
 
-1. Navigate to the [FarmCare GitHub repository](https://github.com/rahulkarda/FarmCare).
+1. Navigate to the [FarmEasy GitHub repository](https://github.com/rahulkarda/FarmEasy).
 2. Click the "New pull request" button.
 3. Click "compare across forks" and select your forked repository and branch from the dropdown menus.
 4. Review the changes and click "Create pull request."

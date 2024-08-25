@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "FarmCare",
-  url: "https://FarmCare.vercel.app",
-  ogImage: "https://FarmCare.vercel.app/og.jpg",
+  name: "FarmEasy",
+  url: "https://FarmEasy.vercel.app",
+  ogImage: "https://FarmEasy.vercel.app/og.jpg",
   description:
     "Your digital gateway to the botanical world. Unearth a wealth of insights, from species details to disease detection, effortlessly bridging the gap between technology and the beauty of nature.",
   links: {

@@ -26,12 +26,12 @@ export function Navbar() {
           <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
             <Link href="/home">Disease Detection</Link>
           </li>
-          {/* <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
+          <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
             <Link href="/sensor">Crop Monitoring</Link>
           </li>
           <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
-            <Link href="/models">3D Models</Link>
-          </li> */}
+            <Link href="https://www.echo3d.com/">3D Models</Link>
+          </li>
         </ul>
       <ThemeToggle />
       </div>

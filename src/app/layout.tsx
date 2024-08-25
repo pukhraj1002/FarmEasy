@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     "Radix UI",
     "Shadcn UI",
     "Plant Disease Detection",
-    "FarmCare",
+    "FarmEasy",
   ],
   creator: "NextGen Coders",
   openGraph: {
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Rahul Karda",
-      url: "https://FarmCare.vercel.app",
+      url: "https://FarmEasy.vercel.app",
     },
   ],
   icons: {
