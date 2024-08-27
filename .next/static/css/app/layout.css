@@ -1184,6 +1184,9 @@ video {
 .h-\[1\.2rem\] {
   height: 1.2rem;
 }
+.h-\[100vh\] {
+  height: 100vh;
+}
 .h-px {
   height: 1px;
 }

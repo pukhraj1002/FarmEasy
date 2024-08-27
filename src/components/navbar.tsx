@@ -30,7 +30,10 @@ export function Navbar() {
             <Link href="/sensor">Crop Monitoring</Link>
           </li>
           <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
-            <Link href="https://www.echo3d.com/">3D Models</Link>
+            <Link href="/models">3D Models</Link>
+          </li>
+          <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
+            <Link href="/CR">Crop Recommendation</Link>
           </li>
         </ul>
       <ThemeToggle />

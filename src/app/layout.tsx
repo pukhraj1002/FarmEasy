@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage],
-    creator: "@rahulkarda2002",
+    creator: "@2002",
   },
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
@@ -56,8 +56,8 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Rahul Karda",
-      url: "https://FarmEasy.vercel.app",
+      name: "Pukhraj Kushwah",
+      url: "https://farmease.netlify.app",
     },
   ],
   icons: {

@@ -23,7 +23,7 @@ Before you start contributing, make sure you have the following tools installed 
 
 ## Fork the Repository
 
-1. Navigate to the [FarmEasy GitHub repository](https://github.com/rahulkarda/FarmEasy).
+1. Navigate to the [FarmEasy GitHub repository](https://github.com/pukhraj1002/FarmEasy).
 2. Click the "Fork" button in the top-right corner of the page to create a copy of the repository in your GitHub account.
 
 ## Clone the Repository
@@ -88,7 +88,7 @@ Replace `your-new-branch-name` with the name of your branch.
 
 ## Submit a Pull Request
 
-1. Navigate to the [FarmEasy GitHub repository](https://github.com/rahulkarda/FarmEasy).
+1. Navigate to the [FarmEasy GitHub repository](https://github.com/pukhraj1002/FarmEasy).
 2. Click the "New pull request" button.
 3. Click "compare across forks" and select your forked repository and branch from the dropdown menus.
 4. Review the changes and click "Create pull request."
