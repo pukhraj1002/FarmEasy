@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     "Radix UI",
     "Shadcn UI",
     "Plant Disease Detection",
-    "FarmEasy",
+    "कृषिCare",
   ],
   creator: "NextGen Coders",
   openGraph: {

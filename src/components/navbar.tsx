@@ -32,9 +32,9 @@ export function Navbar() {
           <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
             <Link href="/models">3D Models</Link>
           </li>
-          <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
+          {/* <li className="cursor-pointer hover:underline text-md-lg text-sm-sm">
             <Link href="/CR">Crop Recommendation</Link>
-          </li>
+          </li> */}
         </ul>
       <ThemeToggle />
       </div>

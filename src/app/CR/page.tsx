@@ -10,7 +10,7 @@ export default function Home() {
         </h1>
         <div className="mt-8 w-full">
           <iframe
-            src="https://farmease.netlify.app"
+            src="https://krashicare.netlify.app"
             className="w-full h-[100vh]" 
             frameBorder="0"
             allowFullScreen
