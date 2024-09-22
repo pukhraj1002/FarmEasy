@@ -50,11 +50,11 @@ export function Navbar() {
               MarketPlace
             </Link>
           </li>
-          <li className="cursor-pointer hover:underline text-md-lg text-sm-sm navbar-about-link">
+          {/* <li className="cursor-pointer hover:underline text-md-lg text-sm-sm navbar-about-link">
             <Link href="/Map" style={{ color: 'green', textDecoration:'none'}}>
               Map
             </Link>
-          </li>
+          </li> */}
         </ul>
         {/* <ThemeToggle style={{ backgroundColor: 'green', padding: '10px', borderRadius: '50%' }} /> */}
         <div style={{ padding: '10px', borderRadius: '50%' }}>
