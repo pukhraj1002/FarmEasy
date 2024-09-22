@@ -56,7 +56,10 @@ export function Navbar() {
             </Link>
           </li>
         </ul>
-        <ThemeToggle style={{ backgroundColor: 'green', padding: '10px', borderRadius: '50%' }} />
+        {/* <ThemeToggle style={{ backgroundColor: 'green', padding: '10px', borderRadius: '50%' }} /> */}
+        <div style={{ backgroundColor: 'green', padding: '10px', borderRadius: '50%' }}>
+          <ThemeToggle />
+        </div>
       </div>
     </nav>
   );

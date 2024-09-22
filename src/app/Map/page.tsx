@@ -31,7 +31,7 @@ export default function Home() {
         </h1>
 
         <div className="frame-containers flex items-center justify-center rounded shadow-lg p-10 -z-10">
-          <div id="map" style={{ height: "700px", width: "1000px" }} class="-z-10"></div>
+          <div id="map" style={{ height: "700px", width: "1000px" }} className="-z-10"></div>
         </div>
       </div>
     </main>
