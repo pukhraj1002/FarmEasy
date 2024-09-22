@@ -16,10 +16,16 @@
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
     ],
-    "/sensor/page": [
+    "/home/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/sensor/page.js"
+      "static/chunks/app/home/page.js"
+    ],
+    "/Map/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Map/page.css",
+      "static/chunks/app/Map/page.js"
     ]
   }
 }

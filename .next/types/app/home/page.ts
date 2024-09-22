@@ -1,8 +1,8 @@
-// File: C:\Users\Pukhraj\Desktop\SIH\FarmEasy\FarmEasy\src\app\sensor\page.tsx
-import * as entry from '../../../../src/app/sensor/page.js'
+// File: C:\Users\Pukhraj\Desktop\SIH\FarmEasy\FarmEasy\src\app\home\page.tsx
+import * as entry from '../../../../src/app/home/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../src/app/sensor/page.js')
+type TEntry = typeof import('../../../../src/app/home/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{
