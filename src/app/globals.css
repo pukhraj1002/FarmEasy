@@ -197,3 +197,21 @@
     height: 5rem;
   }
 }
+
+.navbar-about-link {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 25px;
+  transition: background-color 0.4s ease, transform 0.3s ease;
+  background-color: #f0fff0; /* Light green background */
+}
+
+.navbar-about-link:hover {
+  background-color: #b3ffb3; /* Darker green on hover */
+  transform: scale(1.05); /* Slightly increase size on hover */
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
+}
+
+.-mt-20{
+  margin-top: -20;
+}

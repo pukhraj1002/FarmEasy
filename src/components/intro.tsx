@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
 import Link from "next/link"
-import GreenLeaves from "@/assets/front_page.png"
+import GreenLeaves from "@/assets/farm.jpg"
 import Logo from "@/assets/logo.png"
 import ScrollDown from "@/components/scroll-down"
 import { siteConfig } from "@/config/site"
