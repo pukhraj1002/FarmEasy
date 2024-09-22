@@ -4,7 +4,7 @@ torch==2.2.0
 torchvision
 numpy
 matplotlib
-flask==2.0.0
+flask==2.2.5
 seaborn
 gunicorn
 flask-cors
